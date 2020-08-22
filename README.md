@@ -2,5 +2,5 @@
 <h1>Cube-Y / Yagihara Yuto</h1>
 <a href="https://cube-y.github.io">Cube-Y.HomePage</a>&nbsp;
 <a href="https://twitter.com/cubey_1120">Twitter</a>&nbsp;
-<a href="httpsinstagram.com/cubey_1120">Instagram</a>
+<a href="https://instagram.com/cubey_1120">Instagram</a>
 
