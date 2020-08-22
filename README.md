@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/69599304/90947100-3e3de280-e46e-11ea-85e4-dd546c49f5e3.png"> 
+<img src="https://user-images.githubusercontent.com/69599304/90947156-97a61180-e46e-11ea-9c4e-38898926d9be.png"> 
 <h1>Cube-Y / Yagihara Yuto</h1>
 <a href="https://cube-y.github.io">Cube-Y.HomePage</a>
  📫 How to reach me: ...
