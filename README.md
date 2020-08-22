@@ -2,7 +2,8 @@
 <h1>Cube-Y / Yagihara Yuto</h1>
 
 <h2>📒 SNS</h2>
-<a href="https://cube-y.github.io">Cube-Y.HomePage</a>&nbsp;
+<a href="https://cube-y.github.io">HomePage</a>&nbsp;
+<a href="mailto:yagihara.yagi@gmail.com">Email</a>
 <a href="https://twitter.com/cubey_1120">Twitter</a>&nbsp;
 <a href="https://instagram.com/cubey_1120">Instagram</a>
 
