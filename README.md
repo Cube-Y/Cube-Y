@@ -1,5 +1,4 @@
-### Cube-Y/Yagihara.Y 
-
+<h2>Cube-Y / Yagihara Yuto</h2>
 ![PuroductVer](https://user-images.githubusercontent.com/69599304/90946930-9d9af300-e46c-11ea-83c1-849c394c5bf2.png) 
 <a href="">リンク</a>
  📫 How to reach me: ...
