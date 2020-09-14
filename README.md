@@ -1,4 +1,3 @@
-<img src="https://user-images.githubusercontent.com/69599304/90947156-97a61180-e46e-11ea-9c4e-38898926d9be.png"> 
 <h1>Yutolab1120</h1>
 
 <h3>📒 Links</h3>
